@@ -80,7 +80,7 @@ global.fpagedoc = '444'
 global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/JarotOffc?tab=repositories"
 global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
 global.gc = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/Jarotr_'
+global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/MR.HAGAN_404CR4ZY'
 global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
 // Sticker WM
